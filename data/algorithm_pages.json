@@ -1,0 +1,350 @@
+[
+  {
+    "id": "ALG-1",
+    "title": "환자평가",
+    "page": 584,
+    "image_filename": "alg_584.png"
+  },
+  {
+    "id": "ALG-2",
+    "title": "심정지(성인)",
+    "page": 585,
+    "image_filename": "alg_585.png"
+  },
+  {
+    "id": "ALG-3",
+    "title": "심정지(소아)",
+    "page": 586,
+    "image_filename": "alg_586.png"
+  },
+  {
+    "id": "ALG-4",
+    "title": "외상성 심정지",
+    "page": 587,
+    "image_filename": "alg_587.png"
+  },
+  {
+    "id": "ALG-5",
+    "title": "무수축/무맥성 전기활동",
+    "page": 588,
+    "image_filename": "alg_588.png"
+  },
+  {
+    "id": "ALG-6",
+    "title": "자발순환 회복",
+    "page": 589,
+    "image_filename": "alg_589.png"
+  },
+  {
+    "id": "ALG-7",
+    "title": "응급 심질환 환자처치(성인/전문처치)",
+    "page": 590,
+    "image_filename": "alg_590.png"
+  },
+  {
+    "id": "ALG-8",
+    "title": "응급 심질환 환자처치(소아/전문처치)",
+    "page": 591,
+    "image_filename": "alg_591.png"
+  },
+  {
+    "id": "ALG-9",
+    "title": "소생술 중단",
+    "page": 592,
+    "image_filename": "alg_592.png"
+  },
+  {
+    "id": "ALG-10",
+    "title": "소생술 유보",
+    "page": 593,
+    "image_filename": "alg_593.png"
+  },
+  {
+    "id": "ALG-11",
+    "title": "쇼크",
+    "page": 594,
+    "image_filename": "alg_594.png"
+  },
+  {
+    "id": "ALG-12",
+    "title": "기도폐쇄",
+    "page": 595,
+    "image_filename": "alg_595.png"
+  },
+  {
+    "id": "ALG-13",
+    "title": "기도 처리",
+    "page": 596,
+    "image_filename": "alg_596.png"
+  },
+  {
+    "id": "ALG-14",
+    "title": "기도 확보",
+    "page": 597,
+    "image_filename": "alg_597.png"
+  },
+  {
+    "id": "ALG-15",
+    "title": "흡인",
+    "page": 598,
+    "image_filename": "alg_598.png"
+  },
+  {
+    "id": "ALG-16",
+    "title": "호흡곤란(성인)",
+    "page": 599,
+    "image_filename": "alg_599.png"
+  },
+  {
+    "id": "ALG-17",
+    "title": "호흡곤란(소아)",
+    "page": 600,
+    "image_filename": "alg_600.png"
+  },
+  {
+    "id": "ALG-18",
+    "title": "과호흡",
+    "page": 601,
+    "image_filename": "alg_601.png"
+  },
+  {
+    "id": "ALG-19",
+    "title": "흉통",
+    "page": 602,
+    "image_filename": "alg_602.png"
+  },
+  {
+    "id": "ALG-20",
+    "title": "객혈",
+    "page": 603,
+    "image_filename": "alg_603.png"
+  },
+  {
+    "id": "ALG-21",
+    "title": "토혈/혈변",
+    "page": 604,
+    "image_filename": "alg_604.png"
+  },
+  {
+    "id": "ALG-22",
+    "title": "구토 및 설사",
+    "page": 605,
+    "image_filename": "alg_605.png"
+  },
+  {
+    "id": "ALG-23",
+    "title": "복통",
+    "page": 606,
+    "image_filename": "alg_606.png"
+  },
+  {
+    "id": "ALG-24",
+    "title": "출산",
+    "page": 607,
+    "image_filename": "alg_607.png"
+  },
+  {
+    "id": "ALG-25",
+    "title": "대사성 의식장애",
+    "page": 608,
+    "image_filename": "alg_608.png"
+  },
+  {
+    "id": "ALG-26",
+    "title": "의식 저하",
+    "page": 609,
+    "image_filename": "alg_609.png"
+  },
+  {
+    "id": "ALG-27",
+    "title": "뇌졸중",
+    "page": 610,
+    "image_filename": "alg_610.png"
+  },
+  {
+    "id": "ALG-28",
+    "title": "경련/발작(성인)",
+    "page": 611,
+    "image_filename": "alg_611.png"
+  },
+  {
+    "id": "ALG-29",
+    "title": "경련(소아)",
+    "page": 612,
+    "image_filename": "alg_612.png"
+  },
+  {
+    "id": "ALG-30",
+    "title": "저혈당",
+    "page": 613,
+    "image_filename": "alg_613.png"
+  },
+  {
+    "id": "ALG-31",
+    "title": "열, 감염",
+    "page": 614,
+    "image_filename": "alg_614.png"
+  },
+  {
+    "id": "ALG-32",
+    "title": "신생아 처치",
+    "page": 615,
+    "image_filename": "alg_615.png"
+  },
+  {
+    "id": "ALG-33",
+    "title": "질출혈",
+    "page": 616,
+    "image_filename": "alg_616.png"
+  },
+  {
+    "id": "ALG-34",
+    "title": "다발성 외상환자",
+    "page": 617,
+    "image_filename": "alg_617.png"
+  },
+  {
+    "id": "ALG-35",
+    "title": "두부 손상",
+    "page": 618,
+    "image_filename": "alg_618.png"
+  },
+  {
+    "id": "ALG-36",
+    "title": "척추 고정",
+    "page": 619,
+    "image_filename": "alg_619.png"
+  },
+  {
+    "id": "ALG-37",
+    "title": "흉부 손상",
+    "page": 620,
+    "image_filename": "alg_620.png"
+  },
+  {
+    "id": "ALG-38",
+    "title": "복부 및 골반 손상",
+    "page": 621,
+    "image_filename": "alg_621.png"
+  },
+  {
+    "id": "ALG-39",
+    "title": "팔/다리 손상(절단상 포함)",
+    "page": 622,
+    "image_filename": "alg_622.png"
+  },
+  {
+    "id": "ALG-40",
+    "title": "안구 손상/통증",
+    "page": 623,
+    "image_filename": "alg_623.png"
+  },
+  {
+    "id": "ALG-41",
+    "title": "치과적 손상",
+    "page": 624,
+    "image_filename": "alg_624.png"
+  },
+  {
+    "id": "ALG-42",
+    "title": "출혈",
+    "page": 625,
+    "image_filename": "alg_625.png"
+  },
+  {
+    "id": "ALG-43",
+    "title": "화상",
+    "page": 626,
+    "image_filename": "alg_626.png"
+  },
+  {
+    "id": "ALG-44",
+    "title": "전기 및 낙뢰손상",
+    "page": 627,
+    "image_filename": "alg_627.png"
+  },
+  {
+    "id": "ALG-45",
+    "title": "익수",
+    "page": 628,
+    "image_filename": "alg_628.png"
+  },
+  {
+    "id": "ALG-46",
+    "title": "잠수병",
+    "page": 629,
+    "image_filename": "alg_629.png"
+  },
+  {
+    "id": "ALG-47",
+    "title": "저체온증",
+    "page": 630,
+    "image_filename": "alg_630.png"
+  },
+  {
+    "id": "ALG-48",
+    "title": "고체온증",
+    "page": 631,
+    "image_filename": "alg_631.png"
+  },
+  {
+    "id": "ALG-49",
+    "title": "중독 및 과다복용",
+    "page": 632,
+    "image_filename": "alg_632.png"
+  },
+  {
+    "id": "ALG-50",
+    "title": "물림과 쏘임(사람/동물/해양생물)",
+    "page": 633,
+    "image_filename": "alg_633.png"
+  },
+  {
+    "id": "ALG-51",
+    "title": "물림과 쏘임(곤충)",
+    "page": 634,
+    "image_filename": "alg_634.png"
+  },
+  {
+    "id": "ALG-52",
+    "title": "뱀에 물림",
+    "page": 635,
+    "image_filename": "alg_635.png"
+  },
+  {
+    "id": "ALG-53",
+    "title": "공격적인 환자",
+    "page": 636,
+    "image_filename": "alg_636.png"
+  },
+  {
+    "id": "ALG-54",
+    "title": "외상(특수상황)",
+    "page": 637,
+    "image_filename": "alg_637.png"
+  },
+  {
+    "id": "ALG-55",
+    "title": "환자인수 및 이송 중 처치(항공구급)",
+    "page": 638,
+    "image_filename": "alg_638.png"
+  },
+  {
+    "id": "ALG-56",
+    "title": "환자 일반처치(항공구급)",
+    "page": 639,
+    "image_filename": "alg_639.png"
+  },
+  {
+    "id": "ALG-57",
+    "title": "환자 인수인계 Checklist(항공구급)",
+    "page": 640,
+    "image_filename": "alg_640.png"
+  },
+  {
+    "id": "ALG-58",
+    "title": "처치 거부",
+    "page": 641,
+    "image_filename": "alg_641.png"
+  }
+]

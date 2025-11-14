@@ -1,0 +1,2327 @@
+[
+  {
+    "id": "1-0-1",
+    "part": "Part 1",
+    "part_title": "개 요",
+    "section": null,
+    "title": "지침의 개요",
+    "page_start": 3,
+    "page_end": 3,
+    "section_path": [
+      "Part 1",
+      "지침의 개요"
+    ],
+    "vector_tag": "지침의_개요",
+    "keywords": [
+      "지침의 개요"
+    ],
+    "category": null
+  },
+  {
+    "id": "1-0-2",
+    "part": "Part 1",
+    "part_title": "개 요",
+    "section": null,
+    "title": "지침의 사용방법 및 주의사항",
+    "page_start": 4,
+    "page_end": 6,
+    "section_path": [
+      "Part 1",
+      "지침의 사용방법 및 주의사항"
+    ],
+    "vector_tag": "지침의_사용방법_및_주의사항",
+    "keywords": [
+      "지침의 사용방법 및 주의사항"
+    ],
+    "category": null
+  },
+  {
+    "id": "1-0-3",
+    "part": "Part 1",
+    "part_title": "개 요",
+    "section": null,
+    "title": "의료지도(Medical Oversight)",
+    "page_start": 7,
+    "page_end": null,
+    "section_path": [
+      "Part 1",
+      "의료지도(Medical Oversight)"
+    ],
+    "vector_tag": "의료지도Medical_Oversight",
+    "keywords": [
+      "의료지도(Medical Oversight)"
+    ],
+    "category": null
+  },
+  {
+    "id": "2-1-1",
+    "part": "Part 2",
+    "part_title": "운영지침",
+    "section": "Ⅰ. 119구급대 운영지침",
+    "title": "구급대 편성 및 구급장비 운영",
+    "page_start": 25,
+    "page_end": 31,
+    "section_path": [
+      "Part 2",
+      "Ⅰ. 119구급대 운영지침",
+      "구급대 편성 및 구급장비 운영"
+    ],
+    "vector_tag": "구급대_편성_및_구급장비_운영",
+    "keywords": [
+      "구급대 편성 및 구급장비 운영"
+    ],
+    "category": null
+  },
+  {
+    "id": "2-1-2",
+    "part": "Part 2",
+    "part_title": "운영지침",
+    "section": "Ⅰ. 119구급대 운영지침",
+    "title": "구급차 구급장비 및 기능",
+    "page_start": 32,
+    "page_end": 40,
+    "section_path": [
+      "Part 2",
+      "Ⅰ. 119구급대 운영지침",
+      "구급차 구급장비 및 기능"
+    ],
+    "vector_tag": "구급차_구급장비_및_기능",
+    "keywords": [
+      "구급차 구급장비 및 기능"
+    ],
+    "category": null
+  },
+  {
+    "id": "2-1-3",
+    "part": "Part 2",
+    "part_title": "운영지침",
+    "section": "Ⅰ. 119구급대 운영지침",
+    "title": "응급처치 및 이송거부",
+    "page_start": 41,
+    "page_end": 43,
+    "section_path": [
+      "Part 2",
+      "Ⅰ. 119구급대 운영지침",
+      "응급처치 및 이송거부"
+    ],
+    "vector_tag": "응급처치_및_이송거부",
+    "keywords": [
+      "응급처치 및 이송거부"
+    ],
+    "category": null
+  },
+  {
+    "id": "2-1-4",
+    "part": "Part 2",
+    "part_title": "운영지침",
+    "section": "Ⅰ. 119구급대 운영지침",
+    "title": "구급활동 거절",
+    "page_start": 44,
+    "page_end": 46,
+    "section_path": [
+      "Part 2",
+      "Ⅰ. 119구급대 운영지침",
+      "구급활동 거절"
+    ],
+    "vector_tag": "구급활동_거절",
+    "keywords": [
+      "구급활동 거절"
+    ],
+    "category": null
+  },
+  {
+    "id": "2-1-5",
+    "part": "Part 2",
+    "part_title": "운영지침",
+    "section": "Ⅰ. 119구급대 운영지침",
+    "title": "소생술 유보",
+    "page_start": 47,
+    "page_end": 51,
+    "section_path": [
+      "Part 2",
+      "Ⅰ. 119구급대 운영지침",
+      "소생술 유보"
+    ],
+    "vector_tag": "소생술_유보",
+    "keywords": [
+      "소생술 유보"
+    ],
+    "category": null
+  },
+  {
+    "id": "2-1-6",
+    "part": "Part 2",
+    "part_title": "운영지침",
+    "section": "Ⅰ. 119구급대 운영지침",
+    "title": "소생술 중단",
+    "page_start": 52,
+    "page_end": 53,
+    "section_path": [
+      "Part 2",
+      "Ⅰ. 119구급대 운영지침",
+      "소생술 중단"
+    ],
+    "vector_tag": "소생술_중단",
+    "keywords": [
+      "소생술 중단"
+    ],
+    "category": null
+  },
+  {
+    "id": "2-1-7",
+    "part": "Part 2",
+    "part_title": "운영지침",
+    "section": "Ⅰ. 119구급대 운영지침",
+    "title": "이송대상기관 선정 및 결정",
+    "page_start": 54,
+    "page_end": 61,
+    "section_path": [
+      "Part 2",
+      "Ⅰ. 119구급대 운영지침",
+      "이송대상기관 선정 및 결정"
+    ],
+    "vector_tag": "이송대상기관_선정_및_결정",
+    "keywords": [
+      "이송대상기관 선정 및 결정"
+    ],
+    "category": null
+  },
+  {
+    "id": "2-1-8",
+    "part": "Part 2",
+    "part_title": "운영지침",
+    "section": "Ⅰ. 119구급대 운영지침",
+    "title": "응급의료헬기 요청기준",
+    "page_start": 62,
+    "page_end": 64,
+    "section_path": [
+      "Part 2",
+      "Ⅰ. 119구급대 운영지침",
+      "응급의료헬기 요청기준"
+    ],
+    "vector_tag": "응급의료헬기_요청기준",
+    "keywords": [
+      "응급의료헬기 요청기준"
+    ],
+    "category": null
+  },
+  {
+    "id": "2-1-9",
+    "part": "Part 2",
+    "part_title": "운영지침",
+    "section": "Ⅰ. 119구급대 운영지침",
+    "title": "구급활동의 기록",
+    "page_start": 65,
+    "page_end": 67,
+    "section_path": [
+      "Part 2",
+      "Ⅰ. 119구급대 운영지침",
+      "구급활동의 기록"
+    ],
+    "vector_tag": "구급활동의_기록",
+    "keywords": [
+      "구급활동의 기록"
+    ],
+    "category": null
+  },
+  {
+    "id": "2-1-10",
+    "part": "Part 2",
+    "part_title": "운영지침",
+    "section": "Ⅰ. 119구급대 운영지침",
+    "title": "구급활동일지 작성요령",
+    "page_start": 68,
+    "page_end": 89,
+    "section_path": [
+      "Part 2",
+      "Ⅰ. 119구급대 운영지침",
+      "구급활동일지 작성요령"
+    ],
+    "vector_tag": "구급활동일지_작성요령",
+    "keywords": [
+      "구급활동일지 작성요령"
+    ],
+    "category": null
+  },
+  {
+    "id": "2-1-11",
+    "part": "Part 2",
+    "part_title": "운영지침",
+    "section": "Ⅰ. 119구급대 운영지침",
+    "title": "심폐정지환자 응급처치 세부상황표 작성요령",
+    "page_start": 90,
+    "page_end": 107,
+    "section_path": [
+      "Part 2",
+      "Ⅰ. 119구급대 운영지침",
+      "심폐정지환자 응급처치 세부상황표 작성요령"
+    ],
+    "vector_tag": "심폐정지환자_응급처치_세부상황표_작성요령",
+    "keywords": [
+      "심폐정지환자 응급처치 세부상황표 작성요령"
+    ],
+    "category": null
+  },
+  {
+    "id": "2-1-12",
+    "part": "Part 2",
+    "part_title": "운영지침",
+    "section": "Ⅰ. 119구급대 운영지침",
+    "title": "중증외상환자 응급처치 세부상황표 작성요령",
+    "page_start": 108,
+    "page_end": 124,
+    "section_path": [
+      "Part 2",
+      "Ⅰ. 119구급대 운영지침",
+      "중증외상환자 응급처치 세부상황표 작성요령"
+    ],
+    "vector_tag": "중증외상환자_응급처치_세부상황표_작성요령",
+    "keywords": [
+      "중증외상환자 응급처치 세부상황표 작성요령"
+    ],
+    "category": null
+  },
+  {
+    "id": "2-1-13",
+    "part": "Part 2",
+    "part_title": "운영지침",
+    "section": "Ⅰ. 119구급대 운영지침",
+    "title": "심뇌혈관질환자 응급처치 세부상황표 작성지침",
+    "page_start": 125,
+    "page_end": 146,
+    "section_path": [
+      "Part 2",
+      "Ⅰ. 119구급대 운영지침",
+      "심뇌혈관질환자 응급처치 세부상황표 작성지침"
+    ],
+    "vector_tag": "심뇌혈관질환자_응급처치_세부상황표_작성지침",
+    "keywords": [
+      "심뇌혈관질환자 응급처치 세부상황표 작성지침"
+    ],
+    "category": null
+  },
+  {
+    "id": "2-2-1",
+    "part": "Part 2",
+    "part_title": "운영지침",
+    "section": "Ⅱ. 119상황실 운영지침",
+    "title": "수보단계 중증응급환자 기록일지",
+    "page_start": 147,
+    "page_end": 155,
+    "section_path": [
+      "Part 2",
+      "Ⅱ. 119상황실 운영지침",
+      "수보단계 중증응급환자 기록일지"
+    ],
+    "vector_tag": "수보단계_중증응급환자_기록일지",
+    "keywords": [
+      "수보단계 중증응급환자 기록일지"
+    ],
+    "category": null
+  },
+  {
+    "id": "2-2-2",
+    "part": "Part 2",
+    "part_title": "운영지침",
+    "section": "Ⅱ. 119상황실 운영지침",
+    "title": "수보단계 중증응급환자 인지 프로토콜",
+    "page_start": 156,
+    "page_end": 160,
+    "section_path": [
+      "Part 2",
+      "Ⅱ. 119상황실 운영지침",
+      "수보단계 중증응급환자 인지 프로토콜"
+    ],
+    "vector_tag": "수보단계_중증응급환자_인지_프로토콜",
+    "keywords": [
+      "수보단계 중증응급환자 인지 프로토콜"
+    ],
+    "category": null
+  },
+  {
+    "id": "2-2-3",
+    "part": "Part 2",
+    "part_title": "운영지침",
+    "section": "Ⅱ. 119상황실 운영지침",
+    "title": "심폐소생술 및 응급처치 안내일지",
+    "page_start": 161,
+    "page_end": 174,
+    "section_path": [
+      "Part 2",
+      "Ⅱ. 119상황실 운영지침",
+      "심폐소생술 및 응급처치 안내일지"
+    ],
+    "vector_tag": "심폐소생술_및_응급처치_안내일지",
+    "keywords": [
+      "심폐소생술 및 응급처치 안내일지"
+    ],
+    "category": null
+  },
+  {
+    "id": "2-2-4",
+    "part": "Part 2",
+    "part_title": "운영지침",
+    "section": "Ⅱ. 119상황실 운영지침",
+    "title": "상담단계 심폐소생술 및 즉각 응급처치 안내 프로토콜",
+    "page_start": 175,
+    "page_end": 175,
+    "section_path": [
+      "Part 2",
+      "Ⅱ. 119상황실 운영지침",
+      "상담단계 심폐소생술 및 즉각 응급처치 안내 프로토콜"
+    ],
+    "vector_tag": "상담단계_심폐소생술_및_즉각_응급처치_안내_프로토콜",
+    "keywords": [
+      "상담단계 심폐소생술 및 즉각 응급처치 안내 프로토콜"
+    ],
+    "category": null
+  },
+  {
+    "id": "2-2-5",
+    "part": "Part 2",
+    "part_title": "운영지침",
+    "section": "Ⅱ. 119상황실 운영지침",
+    "title": "심정지 상담 기본 프로토콜",
+    "page_start": 176,
+    "page_end": 185,
+    "section_path": [
+      "Part 2",
+      "Ⅱ. 119상황실 운영지침",
+      "심정지 상담 기본 프로토콜"
+    ],
+    "vector_tag": "심정지_상담_기본_프로토콜",
+    "keywords": [
+      "심정지 상담 기본 프로토콜"
+    ],
+    "category": null
+  },
+  {
+    "id": "2-2-6",
+    "part": "Part 2",
+    "part_title": "운영지침",
+    "section": "Ⅱ. 119상황실 운영지침",
+    "title": "심정지에 준한 상황",
+    "page_start": 186,
+    "page_end": 160,
+    "section_path": [
+      "Part 2",
+      "Ⅱ. 119상황실 운영지침",
+      "심정지에 준한 상황"
+    ],
+    "vector_tag": "심정지에_준한_상황",
+    "keywords": [
+      "심정지에 준한 상황"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-1-1",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅰ. 현장응급처치 표준지침",
+    "title": "심정지(비외상성)",
+    "page_start": 193,
+    "page_end": 201,
+    "section_path": [
+      "Part 3",
+      "Ⅰ. 현장응급처치 표준지침",
+      "심정지(비외상성)"
+    ],
+    "vector_tag": "심정지비외상성",
+    "keywords": [
+      "심정지(비외상성)"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-1-2",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅰ. 현장응급처치 표준지침",
+    "title": "심정지(외상성)",
+    "page_start": 202,
+    "page_end": 209,
+    "section_path": [
+      "Part 3",
+      "Ⅰ. 현장응급처치 표준지침",
+      "심정지(외상성)"
+    ],
+    "vector_tag": "심정지외상성",
+    "keywords": [
+      "심정지(외상성)"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-1-3",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅰ. 현장응급처치 표준지침",
+    "title": "소생 후 치료",
+    "page_start": 210,
+    "page_end": 212,
+    "section_path": [
+      "Part 3",
+      "Ⅰ. 현장응급처치 표준지침",
+      "소생 후 치료"
+    ],
+    "vector_tag": "소생_후_치료",
+    "keywords": [
+      "소생 후 치료"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-1-4",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅰ. 현장응급처치 표준지침",
+    "title": "비외상성 쇼크",
+    "page_start": 213,
+    "page_end": 215,
+    "section_path": [
+      "Part 3",
+      "Ⅰ. 현장응급처치 표준지침",
+      "비외상성 쇼크"
+    ],
+    "vector_tag": "비외상성_쇼크",
+    "keywords": [
+      "비외상성 쇼크"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-1-5",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅰ. 현장응급처치 표준지침",
+    "title": "이물질에 의한 기도폐쇄 216구급대원 현장응급처치 표준지침",
+    "page_start": 216,
+    "page_end": 218,
+    "section_path": [
+      "Part 3",
+      "Ⅰ. 현장응급처치 표준지침",
+      "이물질에 의한 기도폐쇄 216구급대원 현장응급처치 표준지침"
+    ],
+    "vector_tag": "이물질에_의한_기도폐쇄_216구급대원_현장응급처치_표준지침",
+    "keywords": [
+      "이물질에 의한 기도폐쇄 216구급대원 현장응급처치 표준지침"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-1-6",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅰ. 현장응급처치 표준지침",
+    "title": "호흡곤란",
+    "page_start": 219,
+    "page_end": 222,
+    "section_path": [
+      "Part 3",
+      "Ⅰ. 현장응급처치 표준지침",
+      "호흡곤란"
+    ],
+    "vector_tag": "호흡곤란",
+    "keywords": [
+      "호흡곤란"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-1-7",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅰ. 현장응급처치 표준지침",
+    "title": "과호흡",
+    "page_start": 223,
+    "page_end": 224,
+    "section_path": [
+      "Part 3",
+      "Ⅰ. 현장응급처치 표준지침",
+      "과호흡"
+    ],
+    "vector_tag": "과호흡",
+    "keywords": [
+      "과호흡"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-1-8",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅰ. 현장응급처치 표준지침",
+    "title": "흉통",
+    "page_start": 225,
+    "page_end": 229,
+    "section_path": [
+      "Part 3",
+      "Ⅰ. 현장응급처치 표준지침",
+      "흉통"
+    ],
+    "vector_tag": "흉통",
+    "keywords": [
+      "흉통"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-1-9",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅰ. 현장응급처치 표준지침",
+    "title": "서맥",
+    "page_start": 230,
+    "page_end": 232,
+    "section_path": [
+      "Part 3",
+      "Ⅰ. 현장응급처치 표준지침",
+      "서맥"
+    ],
+    "vector_tag": "서맥",
+    "keywords": [
+      "서맥"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-1-10",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅰ. 현장응급처치 표준지침",
+    "title": "빈맥",
+    "page_start": 233,
+    "page_end": 235,
+    "section_path": [
+      "Part 3",
+      "Ⅰ. 현장응급처치 표준지침",
+      "빈맥"
+    ],
+    "vector_tag": "빈맥",
+    "keywords": [
+      "빈맥"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-1-11",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅰ. 현장응급처치 표준지침",
+    "title": "실신",
+    "page_start": 236,
+    "page_end": 238,
+    "section_path": [
+      "Part 3",
+      "Ⅰ. 현장응급처치 표준지침",
+      "실신"
+    ],
+    "vector_tag": "실신",
+    "keywords": [
+      "실신"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-1-12",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅰ. 현장응급처치 표준지침",
+    "title": "객혈",
+    "page_start": 239,
+    "page_end": 241,
+    "section_path": [
+      "Part 3",
+      "Ⅰ. 현장응급처치 표준지침",
+      "객혈"
+    ],
+    "vector_tag": "객혈",
+    "keywords": [
+      "객혈"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-1-13",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅰ. 현장응급처치 표준지침",
+    "title": "토혈/혈변",
+    "page_start": 242,
+    "page_end": 244,
+    "section_path": [
+      "Part 3",
+      "Ⅰ. 현장응급처치 표준지침",
+      "토혈/혈변"
+    ],
+    "vector_tag": "토혈혈변",
+    "keywords": [
+      "토혈/혈변"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-1-14",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅰ. 현장응급처치 표준지침",
+    "title": "대사성 의식 장애",
+    "page_start": 245,
+    "page_end": 248,
+    "section_path": [
+      "Part 3",
+      "Ⅰ. 현장응급처치 표준지침",
+      "대사성 의식 장애"
+    ],
+    "vector_tag": "대사성_의식_장애",
+    "keywords": [
+      "대사성 의식 장애"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-1-15",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅰ. 현장응급처치 표준지침",
+    "title": "급성 뇌졸중의증",
+    "page_start": 249,
+    "page_end": 254,
+    "section_path": [
+      "Part 3",
+      "Ⅰ. 현장응급처치 표준지침",
+      "급성 뇌졸중의증"
+    ],
+    "vector_tag": "급성_뇌졸중의증",
+    "keywords": [
+      "급성 뇌졸중의증"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-1-16",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅰ. 현장응급처치 표준지침",
+    "title": "경련",
+    "page_start": 255,
+    "page_end": 258,
+    "section_path": [
+      "Part 3",
+      "Ⅰ. 현장응급처치 표준지침",
+      "경련"
+    ],
+    "vector_tag": "경련",
+    "keywords": [
+      "경련"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-1-17",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅰ. 현장응급처치 표준지침",
+    "title": "급성 저혈당 의증",
+    "page_start": 259,
+    "page_end": 261,
+    "section_path": [
+      "Part 3",
+      "Ⅰ. 현장응급처치 표준지침",
+      "급성 저혈당 의증"
+    ],
+    "vector_tag": "급성_저혈당_의증",
+    "keywords": [
+      "급성 저혈당 의증"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-1-18",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅰ. 현장응급처치 표준지침",
+    "title": "발열 및 패혈증성 쇼크",
+    "page_start": 262,
+    "page_end": 264,
+    "section_path": [
+      "Part 3",
+      "Ⅰ. 현장응급처치 표준지침",
+      "발열 및 패혈증성 쇼크"
+    ],
+    "vector_tag": "발열_및_패혈증성_쇼크",
+    "keywords": [
+      "발열 및 패혈증성 쇼크"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-1-19",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅰ. 현장응급처치 표준지침",
+    "title": "알레르기 및 아나필락시스",
+    "page_start": 265,
+    "page_end": 268,
+    "section_path": [
+      "Part 3",
+      "Ⅰ. 현장응급처치 표준지침",
+      "알레르기 및 아나필락시스"
+    ],
+    "vector_tag": "알레르기_및_아나필락시스",
+    "keywords": [
+      "알레르기 및 아나필락시스"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-1-20",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅰ. 현장응급처치 표준지침",
+    "title": "행동 이상 및 자살",
+    "page_start": 269,
+    "page_end": 279,
+    "section_path": [
+      "Part 3",
+      "Ⅰ. 현장응급처치 표준지침",
+      "행동 이상 및 자살"
+    ],
+    "vector_tag": "행동_이상_및_자살",
+    "keywords": [
+      "행동 이상 및 자살"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-1-21",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅰ. 현장응급처치 표준지침",
+    "title": "응급 분만",
+    "page_start": 280,
+    "page_end": 287,
+    "section_path": [
+      "Part 3",
+      "Ⅰ. 현장응급처치 표준지침",
+      "응급 분만"
+    ],
+    "vector_tag": "응급_분만",
+    "keywords": [
+      "응급 분만"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-1-22",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅰ. 현장응급처치 표준지침",
+    "title": "질출혈",
+    "page_start": 288,
+    "page_end": 290,
+    "section_path": [
+      "Part 3",
+      "Ⅰ. 현장응급처치 표준지침",
+      "질출혈"
+    ],
+    "vector_tag": "질출혈",
+    "keywords": [
+      "질출혈"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-1-23",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅰ. 현장응급처치 표준지침",
+    "title": "자간증",
+    "page_start": 291,
+    "page_end": 294,
+    "section_path": [
+      "Part 3",
+      "Ⅰ. 현장응급처치 표준지침",
+      "자간증"
+    ],
+    "vector_tag": "자간증",
+    "keywords": [
+      "자간증"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-2-1",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅱ. 소아응급처치 표준지침",
+    "title": "신생아 심정지",
+    "page_start": 297,
+    "page_end": 300,
+    "section_path": [
+      "Part 3",
+      "Ⅱ. 소아응급처치 표준지침",
+      "신생아 심정지"
+    ],
+    "vector_tag": "신생아_심정지",
+    "keywords": [
+      "신생아 심정지"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-2-2",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅱ. 소아응급처치 표준지침",
+    "title": "영아/소아 심정지",
+    "page_start": 301,
+    "page_end": 304,
+    "section_path": [
+      "Part 3",
+      "Ⅱ. 소아응급처치 표준지침",
+      "영아/소아 심정지"
+    ],
+    "vector_tag": "영아소아_심정지",
+    "keywords": [
+      "영아/소아 심정지"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-2-3",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅱ. 소아응급처치 표준지침",
+    "title": "소아 기도 이물",
+    "page_start": 305,
+    "page_end": 308,
+    "section_path": [
+      "Part 3",
+      "Ⅱ. 소아응급처치 표준지침",
+      "소아 기도 이물"
+    ],
+    "vector_tag": "소아_기도_이물",
+    "keywords": [
+      "소아 기도 이물"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-2-4",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅱ. 소아응급처치 표준지침",
+    "title": "소아 호흡곤란",
+    "page_start": 309,
+    "page_end": 311,
+    "section_path": [
+      "Part 3",
+      "Ⅱ. 소아응급처치 표준지침",
+      "소아 호흡곤란"
+    ],
+    "vector_tag": "소아_호흡곤란",
+    "keywords": [
+      "소아 호흡곤란"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-2-5",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅱ. 소아응급처치 표준지침",
+    "title": "소아 경련",
+    "page_start": 312,
+    "page_end": 314,
+    "section_path": [
+      "Part 3",
+      "Ⅱ. 소아응급처치 표준지침",
+      "소아 경련"
+    ],
+    "vector_tag": "소아_경련",
+    "keywords": [
+      "소아 경련"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-2-6",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅱ. 소아응급처치 표준지침",
+    "title": "소아 발열",
+    "page_start": 315,
+    "page_end": 318,
+    "section_path": [
+      "Part 3",
+      "Ⅱ. 소아응급처치 표준지침",
+      "소아 발열"
+    ],
+    "vector_tag": "소아_발열",
+    "keywords": [
+      "소아 발열"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-3-1",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅲ. 손상응급처치 표준지침",
+    "title": "다발성/중증손상",
+    "page_start": 321,
+    "page_end": 326,
+    "section_path": [
+      "Part 3",
+      "Ⅲ. 손상응급처치 표준지침",
+      "다발성/중증손상"
+    ],
+    "vector_tag": "다발성중증손상",
+    "keywords": [
+      "다발성/중증손상"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-3-2",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅲ. 손상응급처치 표준지침",
+    "title": "외상성 의식장애",
+    "page_start": 327,
+    "page_end": 329,
+    "section_path": [
+      "Part 3",
+      "Ⅲ. 손상응급처치 표준지침",
+      "외상성 의식장애"
+    ],
+    "vector_tag": "외상성_의식장애",
+    "keywords": [
+      "외상성 의식장애"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-3-3",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅲ. 손상응급처치 표준지침",
+    "title": "머리 손상",
+    "page_start": 330,
+    "page_end": 332,
+    "section_path": [
+      "Part 3",
+      "Ⅲ. 손상응급처치 표준지침",
+      "머리 손상"
+    ],
+    "vector_tag": "머리_손상",
+    "keywords": [
+      "머리 손상"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-3-4",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅲ. 손상응급처치 표준지침",
+    "title": "척추 및 척수 손상",
+    "page_start": 333,
+    "page_end": 337,
+    "section_path": [
+      "Part 3",
+      "Ⅲ. 손상응급처치 표준지침",
+      "척추 및 척수 손상"
+    ],
+    "vector_tag": "척추_및_척수_손상",
+    "keywords": [
+      "척추 및 척수 손상"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-3-5",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅲ. 손상응급처치 표준지침",
+    "title": "흉부손상",
+    "page_start": 338,
+    "page_end": 341,
+    "section_path": [
+      "Part 3",
+      "Ⅲ. 손상응급처치 표준지침",
+      "흉부손상"
+    ],
+    "vector_tag": "흉부손상",
+    "keywords": [
+      "흉부손상"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-3-6",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅲ. 손상응급처치 표준지침",
+    "title": "복부 및 골반손상",
+    "page_start": 342,
+    "page_end": 345,
+    "section_path": [
+      "Part 3",
+      "Ⅲ. 손상응급처치 표준지침",
+      "복부 및 골반손상"
+    ],
+    "vector_tag": "복부_및_골반손상",
+    "keywords": [
+      "복부 및 골반손상"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-3-7",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅲ. 손상응급처치 표준지침",
+    "title": "비뇨생식기 손상",
+    "page_start": 346,
+    "page_end": 348,
+    "section_path": [
+      "Part 3",
+      "Ⅲ. 손상응급처치 표준지침",
+      "비뇨생식기 손상"
+    ],
+    "vector_tag": "비뇨생식기_손상",
+    "keywords": [
+      "비뇨생식기 손상"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-3-8",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅲ. 손상응급처치 표준지침",
+    "title": "사지 손상",
+    "page_start": 349,
+    "page_end": 354,
+    "section_path": [
+      "Part 3",
+      "Ⅲ. 손상응급처치 표준지침",
+      "사지 손상"
+    ],
+    "vector_tag": "사지_손상",
+    "keywords": [
+      "사지 손상"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-3-9",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅲ. 손상응급처치 표준지침",
+    "title": "안과적 손상",
+    "page_start": 355,
+    "page_end": 357,
+    "section_path": [
+      "Part 3",
+      "Ⅲ. 손상응급처치 표준지침",
+      "안과적 손상"
+    ],
+    "vector_tag": "안과적_손상",
+    "keywords": [
+      "안과적 손상"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-3-10",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅲ. 손상응급처치 표준지침",
+    "title": "치과적 손상 358Ⅲ. 환경응급처치 표준지침",
+    "page_start": 358,
+    "page_end": 362,
+    "section_path": [
+      "Part 3",
+      "Ⅲ. 손상응급처치 표준지침",
+      "치과적 손상 358Ⅲ. 환경응급처치 표준지침"
+    ],
+    "vector_tag": "치과적_손상_358Ⅲ_환경응급처치_표준지침",
+    "keywords": [
+      "치과적 손상 358Ⅲ. 환경응급처치 표준지침"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-3-11",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅲ. 손상응급처치 표준지침",
+    "title": "화상",
+    "page_start": 363,
+    "page_end": 366,
+    "section_path": [
+      "Part 3",
+      "Ⅲ. 손상응급처치 표준지침",
+      "화상"
+    ],
+    "vector_tag": "화상",
+    "keywords": [
+      "화상"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-3-12",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅲ. 손상응급처치 표준지침",
+    "title": "전기 및 낙뢰 손상",
+    "page_start": 367,
+    "page_end": 369,
+    "section_path": [
+      "Part 3",
+      "Ⅲ. 손상응급처치 표준지침",
+      "전기 및 낙뢰 손상"
+    ],
+    "vector_tag": "전기_및_낙뢰_손상",
+    "keywords": [
+      "전기 및 낙뢰 손상"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-3-13",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅲ. 손상응급처치 표준지침",
+    "title": "위험물질 노출",
+    "page_start": 370,
+    "page_end": 372,
+    "section_path": [
+      "Part 3",
+      "Ⅲ. 손상응급처치 표준지침",
+      "위험물질 노출"
+    ],
+    "vector_tag": "위험물질_노출",
+    "keywords": [
+      "위험물질 노출"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-3-14",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅲ. 손상응급처치 표준지침",
+    "title": "익수(침수와 익사)",
+    "page_start": 373,
+    "page_end": 377,
+    "section_path": [
+      "Part 3",
+      "Ⅲ. 손상응급처치 표준지침",
+      "익수(침수와 익사)"
+    ],
+    "vector_tag": "익수침수와_익사",
+    "keywords": [
+      "익수(침수와 익사)"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-3-15",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅲ. 손상응급처치 표준지침",
+    "title": "저체온증",
+    "page_start": 378,
+    "page_end": 382,
+    "section_path": [
+      "Part 3",
+      "Ⅲ. 손상응급처치 표준지침",
+      "저체온증"
+    ],
+    "vector_tag": "저체온증",
+    "keywords": [
+      "저체온증"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-3-16",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅲ. 손상응급처치 표준지침",
+    "title": "고온 환경 질환",
+    "page_start": 383,
+    "page_end": 386,
+    "section_path": [
+      "Part 3",
+      "Ⅲ. 손상응급처치 표준지침",
+      "고온 환경 질환"
+    ],
+    "vector_tag": "고온_환경_질환",
+    "keywords": [
+      "고온 환경 질환"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-3-17",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅲ. 손상응급처치 표준지침",
+    "title": "중독",
+    "page_start": 387,
+    "page_end": 395,
+    "section_path": [
+      "Part 3",
+      "Ⅲ. 손상응급처치 표준지침",
+      "중독"
+    ],
+    "vector_tag": "중독",
+    "keywords": [
+      "중독"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-3-18",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅲ. 손상응급처치 표준지침",
+    "title": "동물/곤충/뱀 교상/해양동물",
+    "page_start": 396,
+    "page_end": 402,
+    "section_path": [
+      "Part 3",
+      "Ⅲ. 손상응급처치 표준지침",
+      "동물/곤충/뱀 교상/해양동물"
+    ],
+    "vector_tag": "동물곤충뱀_교상해양동물",
+    "keywords": [
+      "동물/곤충/뱀 교상/해양동물"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-4-1",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅳ. 특수상황 응급처치 표준지침",
+    "title": "다수환자 발생 및 재난사고",
+    "page_start": 403,
+    "page_end": 414,
+    "section_path": [
+      "Part 3",
+      "Ⅳ. 특수상황 응급처치 표준지침",
+      "다수환자 발생 및 재난사고"
+    ],
+    "vector_tag": "다수환자_발생_및_재난사고",
+    "keywords": [
+      "다수환자 발생 및 재난사고"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-4-2",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅳ. 특수상황 응급처치 표준지침",
+    "title": "아동학대",
+    "page_start": 415,
+    "page_end": 420,
+    "section_path": [
+      "Part 3",
+      "Ⅳ. 특수상황 응급처치 표준지침",
+      "아동학대"
+    ],
+    "vector_tag": "아동학대",
+    "keywords": [
+      "아동학대"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-4-3",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅳ. 특수상황 응급처치 표준지침",
+    "title": "노인환자",
+    "page_start": 421,
+    "page_end": 424,
+    "section_path": [
+      "Part 3",
+      "Ⅳ. 특수상황 응급처치 표준지침",
+      "노인환자"
+    ],
+    "vector_tag": "노인환자",
+    "keywords": [
+      "노인환자"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-4-4",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅳ. 특수상황 응급처치 표준지침",
+    "title": "성폭행",
+    "page_start": 425,
+    "page_end": 430,
+    "section_path": [
+      "Part 3",
+      "Ⅳ. 특수상황 응급처치 표준지침",
+      "성폭행"
+    ],
+    "vector_tag": "성폭행",
+    "keywords": [
+      "성폭행"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-4-5",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅳ. 특수상황 응급처치 표준지침",
+    "title": "범죄현장",
+    "page_start": 431,
+    "page_end": 432,
+    "section_path": [
+      "Part 3",
+      "Ⅳ. 특수상황 응급처치 표준지침",
+      "범죄현장"
+    ],
+    "vector_tag": "범죄현장",
+    "keywords": [
+      "범죄현장"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-4-6",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅳ. 특수상황 응급처치 표준지침",
+    "title": "환자 신체구속(Restraint)",
+    "page_start": 433,
+    "page_end": 434,
+    "section_path": [
+      "Part 3",
+      "Ⅳ. 특수상황 응급처치 표준지침",
+      "환자 신체구속(Restraint)"
+    ],
+    "vector_tag": "환자_신체구속Restraint",
+    "keywords": [
+      "환자 신체구속(Restraint)"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-4-7",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅳ. 특수상황 응급처치 표준지침",
+    "title": "풍수해",
+    "page_start": 435,
+    "page_end": 440,
+    "section_path": [
+      "Part 3",
+      "Ⅳ. 특수상황 응급처치 표준지침",
+      "풍수해"
+    ],
+    "vector_tag": "풍수해",
+    "keywords": [
+      "풍수해"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-5-1",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅴ. 술기 지침",
+    "title": "환자 초기 평가 처치 표준지침",
+    "page_start": 441,
+    "page_end": 452,
+    "section_path": [
+      "Part 3",
+      "Ⅴ. 술기 지침",
+      "환자 초기 평가 처치 표준지침"
+    ],
+    "vector_tag": "환자_초기_평가_처치_표준지침",
+    "keywords": [
+      "환자 초기 평가 처치 표준지침"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-5-2",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅴ. 술기 지침",
+    "title": "심폐소생술",
+    "page_start": 453,
+    "page_end": 452,
+    "section_path": [
+      "Part 3",
+      "Ⅴ. 술기 지침",
+      "심폐소생술"
+    ],
+    "vector_tag": "심폐소생술",
+    "keywords": [
+      "심폐소생술"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-5-3",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅴ. 술기 지침",
+    "title": "기본인명 소생술(Basic Life Support)",
+    "page_start": 453,
+    "page_end": 455,
+    "section_path": [
+      "Part 3",
+      "Ⅴ. 술기 지침",
+      "기본인명 소생술(Basic Life Support)"
+    ],
+    "vector_tag": "기본인명_소생술Basic_Life_Support",
+    "keywords": [
+      "기본인명 소생술(Basic Life Support)"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-5-4",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅴ. 술기 지침",
+    "title": "기계식 압박장비를 이용한 심폐소생술",
+    "page_start": 456,
+    "page_end": 461,
+    "section_path": [
+      "Part 3",
+      "Ⅴ. 술기 지침",
+      "기계식 압박장비를 이용한 심폐소생술"
+    ],
+    "vector_tag": "기계식_압박장비를_이용한_심폐소생술",
+    "keywords": [
+      "기계식 압박장비를 이용한 심폐소생술"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-5-5",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅴ. 술기 지침",
+    "title": "자동심장충격기(AED)",
+    "page_start": 462,
+    "page_end": 465,
+    "section_path": [
+      "Part 3",
+      "Ⅴ. 술기 지침",
+      "자동심장충격기(AED)"
+    ],
+    "vector_tag": "자동심장충격기AED",
+    "keywords": [
+      "자동심장충격기(AED)"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-5-6",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅴ. 술기 지침",
+    "title": "기도관리",
+    "page_start": 466,
+    "page_end": 465,
+    "section_path": [
+      "Part 3",
+      "Ⅴ. 술기 지침",
+      "기도관리"
+    ],
+    "vector_tag": "기도관리",
+    "keywords": [
+      "기도관리"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-5-7",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅴ. 술기 지침",
+    "title": "백밸브마스크(Bag-valve mask; BVM) ☞ ② ①",
+    "page_start": 466,
+    "page_end": 468,
+    "section_path": [
+      "Part 3",
+      "Ⅴ. 술기 지침",
+      "백밸브마스크(Bag-valve mask; BVM) ☞ ② ①"
+    ],
+    "vector_tag": "백밸브마스크Bagvalve_mask_BVM_②_①",
+    "keywords": [
+      "백밸브마스크(Bag-valve mask; BVM) ☞ ② ①"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-5-8",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅴ. 술기 지침",
+    "title": "기관내 삽관",
+    "page_start": 469,
+    "page_end": 471,
+    "section_path": [
+      "Part 3",
+      "Ⅴ. 술기 지침",
+      "기관내 삽관"
+    ],
+    "vector_tag": "기관내_삽관",
+    "keywords": [
+      "기관내 삽관"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-5-9",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅴ. 술기 지침",
+    "title": "성문 상 기도기：l-gel",
+    "page_start": 472,
+    "page_end": 473,
+    "section_path": [
+      "Part 3",
+      "Ⅴ. 술기 지침",
+      "성문 상 기도기：l-gel"
+    ],
+    "vector_tag": "성문_상_기도기lgel",
+    "keywords": [
+      "성문 상 기도기：l-gel"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-5-10",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅴ. 술기 지침",
+    "title": "성문 상 기도기：후두 마스크 (Laryngeal Mask Airway)",
+    "page_start": 474,
+    "page_end": 475,
+    "section_path": [
+      "Part 3",
+      "Ⅴ. 술기 지침",
+      "성문 상 기도기：후두 마스크 (Laryngeal Mask Airway)"
+    ],
+    "vector_tag": "성문_상_기도기후두_마스크_Laryngeal_Mask_Airway",
+    "keywords": [
+      "성문 상 기도기：후두 마스크 (Laryngeal Mask Airway)"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-5-11",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅴ. 술기 지침",
+    "title": "성문 상 기도기：King LTS-D 삽입",
+    "page_start": 476,
+    "page_end": 478,
+    "section_path": [
+      "Part 3",
+      "Ⅴ. 술기 지침",
+      "성문 상 기도기：King LTS-D 삽입"
+    ],
+    "vector_tag": "성문_상_기도기King_LTSD_삽입",
+    "keywords": [
+      "성문 상 기도기：King LTS-D 삽입"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-5-12",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅴ. 술기 지침",
+    "title": "성문 상 기도기：Cobra PeriLaryngeal airway (CPLA)",
+    "page_start": 479,
+    "page_end": 480,
+    "section_path": [
+      "Part 3",
+      "Ⅴ. 술기 지침",
+      "성문 상 기도기：Cobra PeriLaryngeal airway (CPLA)"
+    ],
+    "vector_tag": "성문_상_기도기Cobra_PeriLaryngeal_airway_CPLA",
+    "keywords": [
+      "성문 상 기도기：Cobra PeriLaryngeal airway (CPLA)"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-5-13",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅴ. 술기 지침",
+    "title": "지속적 양압환기(CPAP：Continuous positive airway pressure) 산소공급용 지속적 양압 환기(CPAP) ☞ ①",
+    "page_start": 481,
+    "page_end": 484,
+    "section_path": [
+      "Part 3",
+      "Ⅴ. 술기 지침",
+      "지속적 양압환기(CPAP：Continuous positive airway pressure) 산소공급용 지속적 양압 환기(CPAP) ☞ ①"
+    ],
+    "vector_tag": "지속적_양압환기CPAPContinuous_positive_airway_pressure_산소공급용_지속적_양압_환기CPAP_①",
+    "keywords": [
+      "지속적 양압환기(CPAP：Continuous positive airway pressure) 산소공급용 지속적 양압 환기(CPAP) ☞ ①"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-5-14",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅴ. 술기 지침",
+    "title": "양압 환기와 보조환기술식(인공 호흡)",
+    "page_start": 485,
+    "page_end": 490,
+    "section_path": [
+      "Part 3",
+      "Ⅴ. 술기 지침",
+      "양압 환기와 보조환기술식(인공 호흡)"
+    ],
+    "vector_tag": "양압_환기와_보조환기술식인공_호흡",
+    "keywords": [
+      "양압 환기와 보조환기술식(인공 호흡)"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-5-15",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅴ. 술기 지침",
+    "title": "산소 투여 ☞ ② ①",
+    "page_start": 491,
+    "page_end": 494,
+    "section_path": [
+      "Part 3",
+      "Ⅴ. 술기 지침",
+      "산소 투여 ☞ ② ①"
+    ],
+    "vector_tag": "산소_투여_②_①",
+    "keywords": [
+      "산소 투여 ☞ ② ①"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-5-16",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅴ. 술기 지침",
+    "title": "네뷸라이저(Nebulizer)",
+    "page_start": 495,
+    "page_end": 496,
+    "section_path": [
+      "Part 3",
+      "Ⅴ. 술기 지침",
+      "네뷸라이저(Nebulizer)"
+    ],
+    "vector_tag": "네뷸라이저Nebulizer",
+    "keywords": [
+      "네뷸라이저(Nebulizer)"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-5-17",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅴ. 술기 지침",
+    "title": "정맥 내 약물투여：말초 정맥로 확보 ☞ ① 497구급대원 현장응급처치 표준지침",
+    "page_start": 497,
+    "page_end": 499,
+    "section_path": [
+      "Part 3",
+      "Ⅴ. 술기 지침",
+      "정맥 내 약물투여：말초 정맥로 확보 ☞ ① 497구급대원 현장응급처치 표준지침"
+    ],
+    "vector_tag": "정맥_내_약물투여말초_정맥로_확보_①_497구급대원_현장응급처치_표준지침",
+    "keywords": [
+      "정맥 내 약물투여：말초 정맥로 확보 ☞ ① 497구급대원 현장응급처치 표준지침"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-5-18",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅴ. 술기 지침",
+    "title": "척추 고정(척추 움직임 제한) ☞ ② ①",
+    "page_start": 500,
+    "page_end": 503,
+    "section_path": [
+      "Part 3",
+      "Ⅴ. 술기 지침",
+      "척추 고정(척추 움직임 제한) ☞ ② ①"
+    ],
+    "vector_tag": "척추_고정척추_움직임_제한_②_①",
+    "keywords": [
+      "척추 고정(척추 움직임 제한) ☞ ② ①"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-5-19",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅴ. 술기 지침",
+    "title": "손상 처치",
+    "page_start": 504,
+    "page_end": 503,
+    "section_path": [
+      "Part 3",
+      "Ⅴ. 술기 지침",
+      "손상 처치"
+    ],
+    "vector_tag": "손상_처치",
+    "keywords": [
+      "손상 처치"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-5-20",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅴ. 술기 지침",
+    "title": "지혈 및 상처 드레싱 ☞ Ⓕ ② ①",
+    "page_start": 504,
+    "page_end": 504,
+    "section_path": [
+      "Part 3",
+      "Ⅴ. 술기 지침",
+      "지혈 및 상처 드레싱 ☞ Ⓕ ② ①"
+    ],
+    "vector_tag": "지혈_및_상처_드레싱_②_①",
+    "keywords": [
+      "지혈 및 상처 드레싱 ☞ Ⓕ ② ①"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-5-21",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅴ. 술기 지침",
+    "title": "외상 처치：절단된 조직 ☞ Ⓕ ② ①",
+    "page_start": 505,
+    "page_end": 505,
+    "section_path": [
+      "Part 3",
+      "Ⅴ. 술기 지침",
+      "외상 처치：절단된 조직 ☞ Ⓕ ② ①"
+    ],
+    "vector_tag": "외상_처치절단된_조직_②_①",
+    "keywords": [
+      "외상 처치：절단된 조직 ☞ Ⓕ ② ①"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-5-22",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅴ. 술기 지침",
+    "title": "외상 처치：탈구된 치아 ☞ Ⓕ ② ①",
+    "page_start": 506,
+    "page_end": 505,
+    "section_path": [
+      "Part 3",
+      "Ⅴ. 술기 지침",
+      "외상 처치：탈구된 치아 ☞ Ⓕ ② ①"
+    ],
+    "vector_tag": "외상_처치탈구된_치아_②_①",
+    "keywords": [
+      "외상 처치：탈구된 치아 ☞ Ⓕ ② ①"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-5-23",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅴ. 술기 지침",
+    "title": "외상 처치：부목 고정 ☞ ② ①",
+    "page_start": 506,
+    "page_end": 508,
+    "section_path": [
+      "Part 3",
+      "Ⅴ. 술기 지침",
+      "외상 처치：부목 고정 ☞ ② ①"
+    ],
+    "vector_tag": "외상_처치부목_고정_②_①",
+    "keywords": [
+      "외상 처치：부목 고정 ☞ ② ①"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-5-24",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅴ. 술기 지침",
+    "title": "외상 처치：골반 고정 ☞ ② ①",
+    "page_start": 509,
+    "page_end": 511,
+    "section_path": [
+      "Part 3",
+      "Ⅴ. 술기 지침",
+      "외상 처치：골반 고정 ☞ ② ①"
+    ],
+    "vector_tag": "외상_처치골반_고정_②_①",
+    "keywords": [
+      "외상 처치：골반 고정 ☞ ② ①"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-5-25",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅴ. 술기 지침",
+    "title": "외상 처치：안구 손상 ☞ Ⓕ ② ①",
+    "page_start": 512,
+    "page_end": 513,
+    "section_path": [
+      "Part 3",
+      "Ⅴ. 술기 지침",
+      "외상 처치：안구 손상 ☞ Ⓕ ② ①"
+    ],
+    "vector_tag": "외상_처치안구_손상_②_①",
+    "keywords": [
+      "외상 처치：안구 손상 ☞ Ⓕ ② ①"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-5-26",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅴ. 술기 지침",
+    "title": "환자 감시",
+    "page_start": 514,
+    "page_end": 513,
+    "section_path": [
+      "Part 3",
+      "Ⅴ. 술기 지침",
+      "환자 감시"
+    ],
+    "vector_tag": "환자_감시",
+    "keywords": [
+      "환자 감시"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-5-27",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅴ. 술기 지침",
+    "title": "호기말 이산화탄소의 감시",
+    "page_start": 514,
+    "page_end": 516,
+    "section_path": [
+      "Part 3",
+      "Ⅴ. 술기 지침",
+      "호기말 이산화탄소의 감시"
+    ],
+    "vector_tag": "호기말_이산화탄소의_감시",
+    "keywords": [
+      "호기말 이산화탄소의 감시"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-5-28",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅴ. 술기 지침",
+    "title": "개인보호장비",
+    "page_start": 517,
+    "page_end": 519,
+    "section_path": [
+      "Part 3",
+      "Ⅴ. 술기 지침",
+      "개인보호장비"
+    ],
+    "vector_tag": "개인보호장비",
+    "keywords": [
+      "개인보호장비"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-5-29",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅴ. 술기 지침",
+    "title": "응급 분만",
+    "page_start": 520,
+    "page_end": 528,
+    "section_path": [
+      "Part 3",
+      "Ⅴ. 술기 지침",
+      "응급 분만"
+    ],
+    "vector_tag": "응급_분만",
+    "keywords": [
+      "응급 분만"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-6-1",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅵ. 약물 지침",
+    "title": "Dextrose(포도당주사액)",
+    "page_start": 529,
+    "page_end": 530,
+    "section_path": [
+      "Part 3",
+      "Ⅵ. 약물 지침",
+      "Dextrose(포도당주사액)"
+    ],
+    "vector_tag": "Dextrose포도당주사액",
+    "keywords": [
+      "Dextrose(포도당주사액)"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-6-2",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅵ. 약물 지침",
+    "title": "Nitroglycerin(니트로글리세린설하정)",
+    "page_start": 531,
+    "page_end": 532,
+    "section_path": [
+      "Part 3",
+      "Ⅵ. 약물 지침",
+      "Nitroglycerin(니트로글리세린설하정)"
+    ],
+    "vector_tag": "Nitroglycerin니트로글리세린설하정",
+    "keywords": [
+      "Nitroglycerin(니트로글리세린설하정)"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-6-3",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅵ. 약물 지침",
+    "title": "Normal Saline(생리식염수)",
+    "page_start": 533,
+    "page_end": 534,
+    "section_path": [
+      "Part 3",
+      "Ⅵ. 약물 지침",
+      "Normal Saline(생리식염수)"
+    ],
+    "vector_tag": "Normal_Saline생리식염수",
+    "keywords": [
+      "Normal Saline(생리식염수)"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-6-4",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅵ. 약물 지침",
+    "title": "항히스타민제",
+    "page_start": 535,
+    "page_end": 536,
+    "section_path": [
+      "Part 3",
+      "Ⅵ. 약물 지침",
+      "항히스타민제"
+    ],
+    "vector_tag": "항히스타민제",
+    "keywords": [
+      "항히스타민제"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-6-5",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅵ. 약물 지침",
+    "title": "Epinephrine(에피네피린)",
+    "page_start": 537,
+    "page_end": 540,
+    "section_path": [
+      "Part 3",
+      "Ⅵ. 약물 지침",
+      "Epinephrine(에피네피린)"
+    ],
+    "vector_tag": "Epinephrine에피네피린",
+    "keywords": [
+      "Epinephrine(에피네피린)"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-6-6",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅵ. 약물 지침",
+    "title": "Amiodarone(아미오다론)",
+    "page_start": 541,
+    "page_end": 542,
+    "section_path": [
+      "Part 3",
+      "Ⅵ. 약물 지침",
+      "Amiodarone(아미오다론)"
+    ],
+    "vector_tag": "Amiodarone아미오다론",
+    "keywords": [
+      "Amiodarone(아미오다론)"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-6-7",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅵ. 약물 지침",
+    "title": "비마약성 진통제(진통용)",
+    "page_start": 543,
+    "page_end": 546,
+    "section_path": [
+      "Part 3",
+      "Ⅵ. 약물 지침",
+      "비마약성 진통제(진통용)"
+    ],
+    "vector_tag": "비마약성_진통제진통용",
+    "keywords": [
+      "비마약성 진통제(진통용)"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-6-8",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅵ. 약물 지침",
+    "title": "기관지 확장제(흡인용/분무용)",
+    "page_start": 547,
+    "page_end": 550,
+    "section_path": [
+      "Part 3",
+      "Ⅵ. 약물 지침",
+      "기관지 확장제(흡인용/분무용)"
+    ],
+    "vector_tag": "기관지_확장제흡인용분무용",
+    "keywords": [
+      "기관지 확장제(흡인용/분무용)"
+    ],
+    "category": null
+  },
+  {
+    "id": "3-6-9",
+    "part": "Part 3",
+    "part_title": "응급처치 표준지침",
+    "section": "Ⅵ. 약물 지침",
+    "title": "정질용액(플라스마솔루션/하트만솔루션)",
+    "page_start": 551,
+    "page_end": 554,
+    "section_path": [
+      "Part 3",
+      "Ⅵ. 약물 지침",
+      "정질용액(플라스마솔루션/하트만솔루션)"
+    ],
+    "vector_tag": "정질용액플라스마솔루션하트만솔루션",
+    "keywords": [
+      "정질용액(플라스마솔루션/하트만솔루션)"
+    ],
+    "category": null
+  },
+  {
+    "id": "4-0-1",
+    "part": "Part 4",
+    "part_title": "부록",
+    "section": null,
+    "title": "시도별 응급의료기관 이상 수준 지정 의료기관",
+    "page_start": 555,
+    "page_end": 570,
+    "section_path": [
+      "Part 4",
+      "시도별 응급의료기관 이상 수준 지정 의료기관"
+    ],
+    "vector_tag": "시도별_응급의료기관_이상_수준_지정_의료기관",
+    "keywords": [
+      "시도별 응급의료기관 이상 수준 지정 의료기관"
+    ],
+    "category": null
+  },
+  {
+    "id": "4-0-2",
+    "part": "Part 4",
+    "part_title": "부록",
+    "section": null,
+    "title": "권역외상센터 및 외상전문의 수련센터 선정병원 현황",
+    "page_start": 571,
+    "page_end": 571,
+    "section_path": [
+      "Part 4",
+      "권역외상센터 및 외상전문의 수련센터 선정병원 현황"
+    ],
+    "vector_tag": "권역외상센터_및_외상전문의_수련센터_선정병원_현황",
+    "keywords": [
+      "권역외상센터 및 외상전문의 수련센터 선정병원 현황"
+    ],
+    "category": null
+  },
+  {
+    "id": "4-0-3",
+    "part": "Part 4",
+    "part_title": "부록",
+    "section": null,
+    "title": "구급상황센터 의료상담에 필요한 의학용어 정리",
+    "page_start": 572,
+    "page_end": 571,
+    "section_path": [
+      "Part 4",
+      "구급상황센터 의료상담에 필요한 의학용어 정리"
+    ],
+    "vector_tag": "구급상황센터_의료상담에_필요한_의학용어_정리",
+    "keywords": [
+      "구급상황센터 의료상담에 필요한 의학용어 정리"
+    ],
+    "category": null
+  },
+  {
+    "id": "4-0-4",
+    "part": "Part 4",
+    "part_title": "부록",
+    "section": null,
+    "title": "병원 진료과 및 병동 관련 의학용어",
+    "page_start": 572,
+    "page_end": 572,
+    "section_path": [
+      "Part 4",
+      "병원 진료과 및 병동 관련 의학용어"
+    ],
+    "vector_tag": "병원_진료과_및_병동_관련_의학용어",
+    "keywords": [
+      "병원 진료과 및 병동 관련 의학용어"
+    ],
+    "category": null
+  },
+  {
+    "id": "4-0-5",
+    "part": "Part 4",
+    "part_title": "부록",
+    "section": null,
+    "title": "증상 관련 의학용어",
+    "page_start": 573,
+    "page_end": 574,
+    "section_path": [
+      "Part 4",
+      "증상 관련 의학용어"
+    ],
+    "vector_tag": "증상_관련_의학용어",
+    "keywords": [
+      "증상 관련 의학용어"
+    ],
+    "category": null
+  },
+  {
+    "id": "4-0-6",
+    "part": "Part 4",
+    "part_title": "부록",
+    "section": null,
+    "title": "질병 관련 의학용어",
+    "page_start": 575,
+    "page_end": 578,
+    "section_path": [
+      "Part 4",
+      "질병 관련 의학용어"
+    ],
+    "vector_tag": "질병_관련_의학용어",
+    "keywords": [
+      "질병 관련 의학용어"
+    ],
+    "category": null
+  },
+  {
+    "id": "4-0-7",
+    "part": "Part 4",
+    "part_title": "부록",
+    "section": null,
+    "title": "질병 외 손상 관련 의학용어",
+    "page_start": 579,
+    "page_end": 579,
+    "section_path": [
+      "Part 4",
+      "질병 외 손상 관련 의학용어"
+    ],
+    "vector_tag": "질병_외_손상_관련_의학용어",
+    "keywords": [
+      "질병 외 손상 관련 의학용어"
+    ],
+    "category": null
+  },
+  {
+    "id": "4-0-8",
+    "part": "Part 4",
+    "part_title": "부록",
+    "section": null,
+    "title": "그 외 의학용어",
+    "page_start": 580,
+    "page_end": 582,
+    "section_path": [
+      "Part 4",
+      "그 외 의학용어"
+    ],
+    "vector_tag": "그_외_의학용어",
+    "keywords": [
+      "그 외 의학용어"
+    ],
+    "category": null
+  },
+  {
+    "id": "4-0-9",
+    "part": "Part 4",
+    "part_title": "부록",
+    "section": null,
+    "title": "현장응급처치 알고리즘",
+    "page_start": 583,
+    "page_end": 582,
+    "section_path": [
+      "Part 4",
+      "현장응급처치 알고리즘"
+    ],
+    "vector_tag": "현장응급처치_알고리즘",
+    "keywords": [
+      "현장응급처치 알고리즘"
+    ],
+    "category": null
+  }
+]
