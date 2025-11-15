@@ -1,7 +1,8 @@
 streamlit
-openai
-sentence-transformers
-faiss-cpu
+openai>=1.0.0
 python-dotenv
-Pillow
-
+tqdm
+pandas
+numpy
+pydantic
+jsonlines
